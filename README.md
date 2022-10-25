@@ -10,7 +10,7 @@
 
   - _There were 369,711 votes cast in this congressional election._
   
-    <img src="Total_votes.PNG" width=300>
+    <img src="Images/Total_votes.PNG" width=300>
 
 - **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
 
@@ -20,13 +20,13 @@
   
   - _Apapahoe County has 24,801 votes. It is 6.7% of the total votes in the precinct._
   
-    <img src="County_votes.PNG" width=300>
+    <img src="Images/County_votes.PNG" width=300>
 
 - **Which county had the largest number of votes?**
 
   - _Denvor County had the largest number of votes._
 
-    <img src="Winning_County.PNG" width=300>
+    <img src="Images/Winning_County.PNG" width=300>
 
 - **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
 
@@ -36,13 +36,13 @@
   
   - _Raymon Anthony Doane received 11,606 votes. It is 3.1% of the total votes._
 
-    <img src="Candidate_votes.PNG" width=300>
+    <img src="Images/Candidate_votes.PNG" width=300>
   
 - **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
 
   - _Diana Degette won the election, with 272,892 votes; it is 73.8% of the total votes._
   
-    <img src="Winner.PNG" width=300>
+    <img src="Images/Winner.PNG" width=300>
 
 ## **Election-Audit Summary**
 
