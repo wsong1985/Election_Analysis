@@ -2,7 +2,7 @@
 
 ## **Overview of Project**
 
-### To fulfill the request for additional data regarding the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout, in order to complete the audit.
+### To fulfill the request for additional data regarding the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout in order to complete the audit.
 
 ## **Election-Audit Results**
 
@@ -40,13 +40,19 @@
   
 - **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
 
-  - _Diana Degette won the election, with 272,892 votes; it was 73.8% of the total votes._
+  - _Diana Degette won the election with 272,892 votes; it was 73.8% of the total votes._
   
     <img src="Images/Winner.PNG" width=300>
 
 ## **Election-Audit Summary**
 
-- **What are the advantages and disadvantages of refactoring code in general?**
+- **This python script can be vastly used for any election with minor modifications required.**
 
-  * Advantages of Refactoring Code:
+  * Example 1 - Election for state governers:
+
+    * To implement this script for multiple states, we can introduce a dictionary and a list for each state, like the candidate_votes and candidate_options, to hold the candidate names and the respective vote counts. By looping through the data set, we can calculate the votes received by each candidate in each state. With this information, we can quickly determine the state's winning candidate.
+
+  * Example 2 - Election for high school student concil:
+
+    * 
 
