@@ -46,13 +46,13 @@
 
 ## **Election-Audit Summary**
 
-- **This python script can be vastly used for any election with minor modifications required.**
+- **This python script can be vastly used for any elections with minor modifications required.**
 
-  * Example 1 - Election for state governers:
+  * Example 1 - Gubernatorial Election:
 
-    * To implement this script for multiple states, we can introduce a dictionary and a list for each state, like the candidate_votes and candidate_options, to hold the candidate names and the respective vote counts. By looping through the data set, we can calculate the votes received by each candidate in each state. With this information, we can quickly determine the state's winning candidate.
+    * To implement this script for the Gubernatorial Election, we can introduce a dictionary and a list for each state, like the candidate_votes and candidate_options, to hold the candidate names and the respective vote counts. By looping through the data set, we can calculate the total votes and the votes received by each candidate in each state. This information lets us quickly determine the state's winning candidate with respective winning counts and percentages. Finally, we can store the state winners' information in a dictionary, with the names of states as the keys and the state winners as the corresponding values, to display the election result.  
 
-  * Example 2 - Election for high school student concil:
+  * Example 2 - College Student Concil Election:
 
-    * 
+    * To implement this script for the college student concil election, we initilize a dictionary and a list to hold the candidate names and respective vote counts. Assuming the Years In College is provided for the candidate
 
