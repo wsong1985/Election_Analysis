@@ -14,11 +14,21 @@
 
 - **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
 
-  - _Jefferson County had 38,855 votes. It was 10.5% of the total votes in the precinct._
+  - _The number of votes for each county:_
   
-  - _Denver County had 306,055 votes. It was 82.8% of the total votes in the precinct._
+    - _Jefferson County had 38,855 votes._
+    
+    - _Denver County had 306,055 votes._
+    
+    - _Apapahoe County had 24,801 votes._
+    
+  - _The percentage of total votes for each county:_
   
-  - _Apapahoe County had 24,801 votes. It was 6.7% of the total votes in the precinct._
+    - _Jefferson County contained 10.5% of the total votes in the precinct._
+  
+    - _Denver County contained 82.8% of the total votes in the precinct._
+  
+    - _Apapahoe County contained 6.7% of the total votes in the precinct._
   
     <img src="Images/County_votes.PNG" width=300>
 
@@ -30,11 +40,21 @@
 
 - **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
 
-  - _Charles Casper Stockham received 85,213 votes. It was 23.0% of the total votes._
+  - _The number of votes each candidate received:_
   
-  - _Diana DeGette received 272,892 votes. It was 73.8% of the total votes._
+    - _Charles Casper Stockham received 85,213 votes._
+    
+    - _Diana DeGette received 272,892 votes._
+    
+    - _Raymon Anthony Doane received 11,606 votes.
+    
+  - _The percentage of the total votes each candidate received:_
   
-  - _Raymon Anthony Doane received 11,606 votes. It was 3.1% of the total votes._
+    - _Charles Casper Stockham received 23.0% of the total votes._
+  
+    - _Diana DeGette received 73.8% of the total votes._
+  
+    - _Raymon Anthony Doane received 3.1% of the total votes._
 
     <img src="Images/Candidate_votes.PNG" width=300>
   
