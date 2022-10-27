@@ -1,10 +1,26 @@
 # Election_Analysis
 
-## **Overview of Project**
+## **Overview of Election Audit**
 
-### To fulfill the request for additional data regarding the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout in order to complete the audit.
+### To assist Tom in performing an election analysis with Python script to deliver the following information:
 
-## **Election-Audit Results**
+   - Total number of votes cast
+    
+   - The voter turnout for each county
+    
+   - The percentage of votes from each county out of the total count
+    
+   - The county with the highest turnout
+    
+   - A complete list of candidates who received votes
+    
+   - Total number of votes each candidate received
+    
+   - Percentage of votes each candidate won
+    
+   - The winner of the election based on popular vote
+
+## **Election Audit Results**
 
 - **How many votes were cast in this congressional election?**
 
@@ -64,9 +80,9 @@
   
     <img src="Images/Winner.PNG" width=300>
 
-## **Election-Audit Summary**
+## **Election Audit Summary**
 
-- **This python script can be vastly used for any elections with minor modifications.**
+- **This python script can be vastly used for any election with minor modifications.**
 
   * Example 1 - Gubernatorial Election:
 
