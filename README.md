@@ -66,7 +66,7 @@
 
 ## **Election-Audit Summary**
 
-- **This python script can be vastly used for any elections with minor modifications required.**
+- **This python script can be vastly used for any elections with minor modifications.**
 
   * Example 1 - Gubernatorial Election:
 
