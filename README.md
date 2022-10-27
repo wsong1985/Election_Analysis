@@ -24,11 +24,11 @@
     
   - _The percentage of total votes for each county:_
   
-    - _Jefferson County contained 10.5% of the total votes in the precinct._
+    - _Jefferson County represented 10.5% of the total votes in the precinct._
   
-    - _Denver County contained 82.8% of the total votes in the precinct._
+    - _Denver County represented 82.8% of the total votes in the precinct._
   
-    - _Apapahoe County contained 6.7% of the total votes in the precinct._
+    - _Apapahoe County represented 6.7% of the total votes in the precinct._
   
     <img src="Images/County_votes.PNG" width=300>
 
@@ -60,7 +60,7 @@
   
 - **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
 
-  - _Diana Degette won the election with 272,892 votes; it was 73.8% of the total votes._
+  - _Diana Degette won the election with 272,892 votes, representing 73.8% of the total votes._
   
     <img src="Images/Winner.PNG" width=300>
 
