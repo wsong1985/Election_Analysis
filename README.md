@@ -46,7 +46,7 @@
     
     - _Diana DeGette received 272,892 votes._
     
-    - _Raymon Anthony Doane received 11,606 votes.
+    - _Raymon Anthony Doane received 11,606 votes._
     
   - _The percentage of the total votes each candidate received:_
   
